@@ -1,10 +1,10 @@
-# Hi, I'm Dani  <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
+# Hi, I'm Eternal  <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
 
 
 ## 🛠️ Tools and Languages
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,codepen,github,java,eclipse,python,pycharm,flask,go,bash,rust,unrealengine,bootstrap)](#)
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" />  My GitHub Stats
-![Infinite's GitHub stats](https://github-readme-stats.vercel.app/api?username=dani234t34&show_icons=true&theme=ambient_gradient)
+![Eternal's GitHub stats](https://github-readme-stats.vercel.app/api?username=eternalxlks1&show_icons=true&theme=ambient_gradient)
 ### Stuff and things
 - <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Symbols/New%20Button.png?raw=true" alt="New Button.png" width="20" height="20"/> Well, I kind of just started a few days ago, so my GitHub stats are kind of bad,
 - <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Activities/Video%20Game.png?raw=true" alt="Video Game.png" alt="Game" width="20" height="20" />  I love to play video games, and I actually touch grass.
